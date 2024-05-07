@@ -1,0 +1,14 @@
+body{background-color: rgb(0, 0, 0);
+}
+h1{color: white;
+}
+h2{color: white;
+}
+image-left{width: 600px;
+height: 500px;
+float: left;
+margin-right: 20px;}
+image-right{width: 600px;
+height: 500px;
+float: right;
+margin-left: 20px;}
